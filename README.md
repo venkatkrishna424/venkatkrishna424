@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://instagram.com/venkat_krishna424">
-    <img src="./instagram_preview.png" alt="Instagram Preview" width="400" style="border-radius: 8px;" />
+    <img src="https://github.com/venkatkrishna424/hello/blob/main/git.jpg" alt="Instagram Preview" width="400" style="border-radius: 8px;" />
   </a>
 </p>
 <!--
