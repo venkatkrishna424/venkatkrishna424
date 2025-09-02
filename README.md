@@ -1,14 +1,20 @@
 ###  Follow me on
 
 [![My Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/venkat_krishna424)
-[![My linkedIn](https://icons8.com/icon/85044/linkedin)](https://www.linkedin.com/in/venkatakrishnakondapalli
+[![My linkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatakrishnakondapalli
 )
 
 <p align="center">
   <a href="https://instagram.com/venkat_krishna424">
-    <img src="https://github.com/venkatkrishna424/venkatkrishna424/blob/main/git.jpg" alt="Instagram Preview" width="100%" style="border-radius: 8px;" />
+    <img 
+      src="https://github.com/venkatkrishna424/venkatkrishna424/blob/main/git.jpg" 
+      alt="Instagram Preview" 
+      width="100%" 
+      style="border-radius: 20px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);" 
+    />
   </a>
 </p>
+
 <!--
 www.linkedin.com/in/venkatakrishnakondapalli
 
