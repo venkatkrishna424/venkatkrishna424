@@ -1,7 +1,7 @@
 ###  Follow me on
 
 [![My Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/venkat_krishna424)
-[![My linkedIn](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](www.linkedin.com/in/venkatakrishnakondapalli
+[![My linkedIn](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/venkatakrishnakondapalli
 )
 
 <p align="center">
