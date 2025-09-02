@@ -1,5 +1,12 @@
-## Hi there 👋
+###  Follow me on Instagram
 
+[![My Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/venkat_krishna424)
+
+<p align="center">
+  <a href="https://instagram.com/venkat_krishna424">
+    <img src="./instagram_preview.png" alt="Instagram Preview" width="400" style="border-radius: 8px;" />
+  </a>
+</p>
 <!--
 **venkatkrishna424/venkatkrishna424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
