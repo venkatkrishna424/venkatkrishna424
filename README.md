@@ -1,10 +1,9 @@
 ###  Follow me on Instagram
 
 [![My Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/venkat_krishna424)
-
 <p align="center">
   <a href="https://instagram.com/venkat_krishna424">
-    <img src="https://github.com/venkatkrishna424/hello/blob/main/git.jpg" alt="Instagram Preview" width="400" style="border-radius: 8px;" />
+    <img src="https://github.com/venkatkrishna424/hello/blob/main/git.jpg" alt="Instagram Preview" width="100%" style="border-radius: 8px;" />
   </a>
 </p>
 <!--
